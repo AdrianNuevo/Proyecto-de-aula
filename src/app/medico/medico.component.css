@@ -1,0 +1,35 @@
+tr{
+    text-align: center;
+    height: 40px;
+    vertical-align: center;
+    
+}
+tr:hover{
+    background-color: rgb(155, 68, 68);
+    color: white;
+}
+th{
+    border-bottom: 1px solid rgb(0, 0, 0);
+}
+table{
+    width: 100%;
+    border-radius: 30px;
+}
+thead{
+    background-color: rgb(155, 68, 68);
+    color: white;
+    font-family: cursive;
+}
+button{
+    background-color: rgb(75, 19, 19);
+    border-radius: 10px;
+    color: white;
+    height: 2.5em;
+    width: 5.0em;
+    font-size: 1.2em;
+    padding: 0.2em;
+}
+button:hover{
+    background-color: rgb(48, 48, 48);
+}
+   
